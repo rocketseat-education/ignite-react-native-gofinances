@@ -1,19 +1,7 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+
+import { Dashboard } from './src/screens/Dashboard';
 
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Meu App React Native com Expo</Text>
-    </View>
-  );
+  return <Dashboard />
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
