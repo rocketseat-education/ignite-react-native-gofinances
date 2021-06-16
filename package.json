@@ -11,6 +11,7 @@
     "@expo-google-fonts/poppins": "^0.1.0",
     "@hookform/resolvers": "^2.5.2",
     "@react-native-community/masked-view": "^0.1.11",
+    "@react-navigation/bottom-tabs": "^5.11.11",
     "@react-navigation/native": "^5.9.4",
     "expo": "~41.0.1",
     "expo-app-loading": "^1.0.3",
