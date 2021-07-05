@@ -30,6 +30,7 @@
     "react-native-safe-area-context": "^3.2.0",
     "react-native-screens": "^3.3.0",
     "react-native-unimodules": "~0.13.3",
+    "react-native-uuid": "^2.0.1",
     "react-native-web": "~0.13.12",
     "styled-components": "^5.3.0",
     "yup": "^0.32.9"
