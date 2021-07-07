@@ -30,10 +30,12 @@
     "react-native-responsive-fontsize": "^0.5.0",
     "react-native-safe-area-context": "^3.2.0",
     "react-native-screens": "^3.3.0",
+    "react-native-svg": "^12.1.1",
     "react-native-unimodules": "~0.13.3",
     "react-native-uuid": "^2.0.1",
     "react-native-web": "~0.13.12",
     "styled-components": "^5.3.0",
+    "victory-native": "^35.3.3",
     "yup": "^0.32.9"
   },
   "devDependencies": {

@@ -316,6 +316,8 @@ PODS:
   - RNScreens (3.3.0):
     - React-Core
     - React-RCTImage
+  - RNSVG (12.1.1):
+    - React
   - UMAppLoader (2.1.0)
   - UMBarCodeScannerInterface (6.1.0):
     - UMCore
@@ -385,6 +387,7 @@ DEPENDENCIES:
   - RNGestureHandler (from `../node_modules/react-native-gesture-handler`)
   - RNReanimated (from `../node_modules/react-native-reanimated`)
   - RNScreens (from `../node_modules/react-native-screens`)
+  - RNSVG (from `../node_modules/react-native-svg`)
   - UMAppLoader (from `../node_modules/unimodules-app-loader/ios`)
   - UMBarCodeScannerInterface (from `../node_modules/unimodules-barcode-scanner-interface/ios`)
   - UMCameraInterface (from `../node_modules/unimodules-camera-interface/ios`)
@@ -489,6 +492,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native-reanimated"
   RNScreens:
     :path: "../node_modules/react-native-screens"
+  RNSVG:
+    :path: "../node_modules/react-native-svg"
   UMAppLoader:
     :path: "../node_modules/unimodules-app-loader/ios"
   UMBarCodeScannerInterface:
@@ -562,6 +567,7 @@ SPEC CHECKSUMS:
   RNGestureHandler: a479ebd5ed4221a810967000735517df0d2db211
   RNReanimated: d9da990fc90123f4ffbfdda93d00fc15174863a8
   RNScreens: bf59f17fbf001f1025243eeed5f19419d3c11ef2
+  RNSVG: 551acb6562324b1d52a4e0758f7ca0ec234e278f
   UMAppLoader: fe2708bb0ac5cd70052bc207d06aa3b7e72b9e97
   UMBarCodeScannerInterface: 79f92bea5f7af39b381a4c82298105ceb537408a
   UMCameraInterface: 81ff46700da88435f17afedfc88915eaede7e6a6
